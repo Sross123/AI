@@ -1,0 +1,29 @@
+Machine Learning is a branch of AI where computers learn patterns from data and make predictions or decisions without being explicitly programmed for every situation.
+
+For example, instead of writing fixed rules to detect spam emails, we train a model using thousands of spam and non-spam emails. The model learns patterns and predicts whether a new email is spam.
+
+### Main types of Machine Learning
+
+* **Supervised Learning** — learns from labeled data. Examples: house-price prediction, spam detection, disease prediction.
+* **Unsupervised Learning** — finds hidden patterns in unlabeled data. Examples: customer segmentation and clustering.
+* **Reinforcement Learning** — learns through rewards and penalties. Examples: game-playing agents and robotics.
+
+A typical ML workflow is:
+
+```text
+Collect Data
+    ↓
+Clean Data
+    ↓
+Choose Features
+    ↓
+Train Model
+    ↓
+Evaluate Model
+    ↓
+Make Predictions
+```
+
+Common algorithms include **Linear Regression, Logistic Regression, Decision Trees, Random Forest, K-Means, and Neural Networks**.
+
+For your **GenAI → RAG → Agentic AI** journey, you do not need to master all of ML first, but understanding **training vs inference, overfitting, features, embeddings, similarity, loss, precision, recall, and evaluation** will help a lot.
