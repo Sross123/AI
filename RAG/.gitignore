@@ -1,3 +1,5 @@
 .env
 # Ignore any local .env files that may contain secrets
 .env.local
+
+.venv
