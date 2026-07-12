@@ -1,0 +1,18 @@
+langchain
+langchain-core
+langchain-chroma
+langchain-community
+langchain-mistralai
+mistralai
+langchain_text_splitters
+
+# Vector Database
+
+chromadb
+
+# Environment Variables
+
+python-dotenv
+
+
+pypdf
